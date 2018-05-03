@@ -1,1 +1,3 @@
 # deeplearning_study
+
+本repo主要是用于在deeplearning课程学习的分享。把原文上复杂冗长的notebook内容删掉，改为相对简单的纯代码形式，便于复习使用。
