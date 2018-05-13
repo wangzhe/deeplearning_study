@@ -11,7 +11,7 @@ def load_data(with_test=False):
     train_x_orig, train_y, test_x_orig, test_y, the_classes = load_dataset()
     if with_test:
         # Example of a picture
-        index = 25
+        index = 23
         plt.imshow(train_x_orig[index])
         print("y = " + str(train_y[:, index]) + ", it's a '" + the_classes[np.squeeze(train_y[:, index])].decode(
             "utf-8") + "' picture.")
@@ -298,7 +298,7 @@ def different_learning_rate(show_different_learning_rate_curve_=False):
 
 def test_img(test_my_data=False):
     if test_my_data:
-        my_image = "my_image.jpg"  # change this to the name of your image file
+        my_image = "la_defense.jpg"  # change this to the name of your image file
 
         # We preprocess the image to fit your algorithm.
         fname = "images/" + my_image
@@ -316,7 +316,7 @@ def test_img(test_my_data=False):
 
 if __name__ == '__main__':
     visualizing_data = False
-    test_my_data = False
+    test_my_data = True
     show_learning_curve = False
     show_different_learning_rate_curve = False
 

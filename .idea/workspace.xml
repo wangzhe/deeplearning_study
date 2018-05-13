@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de8a7fc8-0dc8-41fc-b101-c6ee8a5696b7" name="Default" comment="" />
+    <list default="true" id="de8a7fc8-0dc8-41fc-b101-c6ee8a5696b7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/planar_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-3/assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1-2/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1-2/assignment.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +21,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="assignment.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="assignment.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week1-2/assignment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="242" column="23" lean-forward="true" selection-start-line="242" selection-start-column="23" selection-end-line="242" selection-end-column="23" />
+            <state relative-caret-position="-31">
+              <caret line="99" column="89" selection-start-line="99" selection-start-column="81" selection-end-line="99" selection-end-column="89" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assignment.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week1-3/assignment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="239" lean-forward="true" selection-start-line="239" selection-end-line="239" />
+              <folding>
+                <element signature="e#18#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logistic.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/sklearn/linear_model/logistic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23310">
+              <caret line="1578" column="8" selection-start-line="1578" selection-start-column="8" selection-end-line="1578" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validation.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/sklearn/utils/validation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8475">
+              <caret line="577" selection-start-line="577" selection-end-line="577" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pyplot.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/pyplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51270">
+              <caret line="3469" selection-start-line="3469" selection-end-line="3469" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testCases.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCases.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1680">
+              <caret line="112" selection-start-line="112" selection-end-line="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="planar_utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/planar_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -42,10 +109,14 @@
       <find>X</find>
       <find>w</find>
       <find>print</find>
+      <find>keep</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -56,16 +127,22 @@
         <option value="$PROJECT_DIR$/note_python_numpy.py" />
         <option value="$PROJECT_DIR$/vectors_n_matrix.py" />
         <option value="$PROJECT_DIR$/week1-2/main.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/week1-2/assignment.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/testCases.py" />
+        <option value="$PROJECT_DIR$/planar_utils.py" />
+        <option value="$PROJECT_DIR$/week1-3/assignment.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="27" />
-    <option name="y" value="38" />
-    <option name="width" value="1330" />
-    <option name="height" value="836" />
+    <option name="x" value="135" />
+    <option name="y" value="27" />
+    <option name="width" value="979" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -87,6 +164,11 @@
             </path>
             <path>
               <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
+              <item name="week1-3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -99,13 +181,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/week1-2/images" />
+      <recent name="$PROJECT_DIR$/week1-2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week1-2/image" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/week1-2/images" />
-      <recent name="$PROJECT_DIR$/week1-2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -120,7 +203,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment">
+  <component name="RunManager" selected="Python.assignment (1)">
+    <configuration name="assignment (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1-3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1-3/assignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,24 +271,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1-2/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="note_python_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="deeplearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/note_python_numpy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,17 +442,17 @@
     <list>
       <item itemvalue="Python.dlv_py" />
       <item itemvalue="Python.vectors_n_matrix" />
-      <item itemvalue="Python.note_python_numpy" />
       <item itemvalue="Python.assignment" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.assignment (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment (1)" />
         <item itemvalue="Python.assignment" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.vectors_n_matrix" />
         <item itemvalue="Python.dlv_py" />
-        <item itemvalue="Python.note_python_numpy" />
       </list>
     </recent_temporary>
   </component>
@@ -387,64 +470,43 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="38" width="1330" height="836" extended-state="0" />
+    <frame x="135" y="27" width="979" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24828114" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22964509" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50038195" side_tool="true" weight="0.32882273" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32882273" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49961802" visible="true" weight="0.067659" />
-      <window_info anchor="bottom" id="Thumbnails" weight="0.32882273" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49961802" weight="0.28703704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991881" />
+      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32882273" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/planar_utils.py</url>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dlv_py.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/broadcasting_training.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vectors_n_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1025205290/numpy/core/multiarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13005">
@@ -466,20 +528,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb" />
     <entry file="file://$PROJECT_DIR$/dlv_py.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -518,20 +571,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb" />
     <entry file="file://$PROJECT_DIR$/dlv_py.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,20 +607,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb" />
     <entry file="file://$PROJECT_DIR$/dlv_py.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -601,13 +636,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb" />
     <entry file="file://$PROJECT_DIR$/vectors_n_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -626,26 +655,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb" />
     <entry file="file://$PROJECT_DIR$/dlv_py.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -679,9 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -703,26 +717,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1-2/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb" />
+    <entry file="file://$PROJECT_DIR$/week1-2/main.py" />
     <entry file="file://$PROJECT_DIR$/vectors_n_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -746,20 +745,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week1-2/images/image2.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/testCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51270">
+          <caret line="3469" selection-start-line="3469" selection-end-line="3469" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/colors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="232" column="4" selection-start-line="232" selection-start-column="4" selection-end-line="232" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4273" column="38" selection-start-line="4273" selection-start-column="38" selection-end-line="4273" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="1854" selection-start-line="1854" selection-end-line="1854" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/planar_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8475">
+          <caret line="577" selection-start-line="577" selection-end-line="577" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/sklearn/linear_model/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23310">
+          <caret line="1578" column="8" selection-start-line="1578" selection-start-column="8" selection-end-line="1578" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week1-2/assignment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="242" column="23" lean-forward="true" selection-start-line="242" selection-start-column="23" selection-end-line="242" selection-end-column="23" />
+        <state relative-caret-position="-31">
+          <caret line="99" column="89" selection-start-line="99" selection-start-column="81" selection-end-line="99" selection-end-column="89" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1-3/assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="239" lean-forward="true" selection-start-line="239" selection-end-line="239" />
+          <folding>
+            <element signature="e#18#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
