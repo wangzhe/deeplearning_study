@@ -5,3 +5,4 @@ scipy
 Pillow
 sklearn
 tensorflow
+keras

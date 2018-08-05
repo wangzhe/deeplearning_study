@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de8a7fc8-0dc8-41fc-b101-c6ee8a5696b7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/dnn_utils_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gc_utils_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opt_utils_v22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCases_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCases_v21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCases_v22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1-4/assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-1/assignment1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-1/assignment2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-1/assignment3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/datasets/data.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/images/Momentum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/images/cost.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/images/kiank_minibatch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/images/kiank_partition.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/images/kiank_sgd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/images/kiank_shuffle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/images/opt1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/images/opt2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/images/opt_momentum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-3/assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4-1/assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4-1/assignment2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_utils_v23.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf_utils_v23.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="assignment.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="assignment.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week1-2/assignment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="319" column="20" selection-start-line="319" selection-start-column="20" selection-end-line="319" selection-end-column="20" />
+            <state relative-caret-position="15">
+              <caret line="31" column="49" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="49" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -54,11 +34,83 @@
       <file leaf-file-name="assignment.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week2-2/assignment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3975">
-              <caret line="274" column="27" selection-start-line="209" selection-end-line="274" selection-end-column="27" />
+            <state relative-caret-position="703">
+              <caret line="257" column="29" selection-start-line="257" selection-start-column="29" selection-end-line="257" selection-end-column="29" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assignment.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week4-1/assignment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assignment2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week4-1/assignment2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="115" column="50" lean-forward="true" selection-start-line="115" selection-start-column="50" selection-end-line="115" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="broadcasting_training.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/broadcasting_training.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vectors_n_matrix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vectors_n_matrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tf_utils_v23.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tf_utils_v23.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note_python_numpy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note_python_numpy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -68,35 +120,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="17" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tf_utils_v23.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tf_utils_v23.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testCases_v22.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testCases_v22.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -121,6 +144,8 @@
       <find>rand</find>
       <find>random</find>
       <find>plt.</find>
+      <find>shape</find>
+      <find>.sho</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -152,14 +177,16 @@
         <option value="$PROJECT_DIR$/week2-2/assignment.py" />
         <option value="$PROJECT_DIR$/week2-3/assignment.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/week4-1/assignment.py" />
+        <option value="$PROJECT_DIR$/week4-1/assignment2.py" />
+        <option value="$PROJECT_DIR$/tf_utils_v23.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="17" />
-    <option name="y" value="52" />
-    <option name="width" value="995" />
-    <option name="height" value="775" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1397" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -184,8 +211,7 @@
             <path>
               <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
-              <item name="week1-2" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="week2-2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
@@ -197,6 +223,11 @@
               <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
               <item name="week2-3" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
+              <item name="week4-1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
@@ -237,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment (1)">
+  <component name="RunManager" selected="Python.assignment2 (1)">
     <configuration name="assignment (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,7 +287,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assignment (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,11 +295,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4-1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2-1/assignment1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4-1/assignment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +323,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assignment2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,11 +331,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4-1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2-1/assignment2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4-1/assignment2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -474,19 +505,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Python.assignment (3)" />
-      <item itemvalue="Python.assignment2" />
       <item itemvalue="Python.assignment3" />
       <item itemvalue="Python.assignment" />
       <item itemvalue="Python.assignment (1)" />
+      <item itemvalue="Python.assignment (2)" />
+      <item itemvalue="Python.assignment2 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment2 (1)" />
+        <item itemvalue="Python.assignment (2)" />
         <item itemvalue="Python.assignment (1)" />
         <item itemvalue="Python.assignment" />
         <item itemvalue="Python.assignment3" />
-        <item itemvalue="Python.assignment2" />
-        <item itemvalue="Python.assignment (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -504,19 +535,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="52" width="995" height="775" extended-state="0" />
+    <frame x="0" y="23" width="1397" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2258727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15479651" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50038195" side_tool="true" weight="0.32882273" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49961802" weight="0.2860606" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49961802" visible="true" weight="0.2861357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991881" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32882273" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -524,8 +555,44 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
     </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -541,13 +608,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/numpy/ma/core.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68055">
-          <caret line="4537" column="8" selection-start-line="4537" selection-start-column="8" selection-end-line="4537" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vectors_n_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -661,29 +721,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note_python_numpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dlv_py.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb" />
     <entry file="file://$PROJECT_DIR$/week1-2/main.py" />
-    <entry file="file://$PROJECT_DIR$/vectors_n_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1025205290/numpy/core/multiarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -771,13 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/broadcasting_training.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2-1/assignment2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -820,22 +852,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2-2/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3975">
-          <caret line="274" column="27" selection-start-line="209" selection-end-line="274" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/deep_learning_vectorization-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tf_utils_v23.py">
+    <entry file="file://$PROJECT_DIR$/dlv_py.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="435">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -846,23 +873,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/note_python_numpy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="68">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week1-2/images/image2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1-2/images/catB.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/tf_utils_v23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week1-2/assignment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="319" column="20" selection-start-line="319" selection-start-column="20" selection-end-line="319" selection-end-column="20" />
+        <state relative-caret-position="15">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2-2/assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="257" column="29" selection-start-line="257" selection-start-column="29" selection-end-line="257" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4-1/assignment2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="115" column="50" lean-forward="true" selection-start-line="115" selection-start-column="50" selection-end-line="115" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/broadcasting_training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vectors_n_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4-1/assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
