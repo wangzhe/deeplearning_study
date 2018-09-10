@@ -8,3 +8,7 @@ tensorflow
 keras
 pydot
 pandas
+music21
+#for some music thing in jazz solo
+pygame
+emoji

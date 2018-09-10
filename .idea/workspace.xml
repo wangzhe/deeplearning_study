@@ -2,19 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de8a7fc8-0dc8-41fc-b101-c6ee8a5696b7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/week4-2/assignment2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4-2/kt_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4-2/model.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4-2/summary_model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4-3/car_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4-3/yad2k/models/keras_darknet19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4-3/yad2k/models/keras_yolo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4-3/yad2k/models/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4-3/yolo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4-3/yolo_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course5w1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course5w1/assignement1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course5w1/dinosaurus_island.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course5w1/jazz_solo_lstm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course5w1/writing_like_shakespeare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course5w2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course5w2/emojify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course5w2/emojifyV2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course5w2/emojyfier/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course5w2/operation_word2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course5w2/operation_word_vec/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course5w3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainc5w2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2-3/simple_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4-2/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4-2/assignment.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,13 +33,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="assignment.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week4-2/assignment.py">
+      <file leaf-file-name="operation_word2vec.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course5w2/operation_word2vec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="1410">
+              <caret line="94" column="4" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="4" />
               <folding>
-                <element signature="e#620#642#0" expanded="true" />
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emojify.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course5w2/emojify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="159" column="47" lean-forward="true" selection-start-line="156" selection-start-column="35" selection-end-line="159" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emojifyV2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/course5w2/emojifyV2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="628">
+              <caret line="196" column="85" selection-start-line="196" selection-start-column="85" selection-end-line="196" selection-end-column="85" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="input_layer.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/engine/input_layer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="112" column="4" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emo_utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course5w2/emojyfier/emo_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,62 +93,38 @@
       <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state relative-caret-position="195">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="car_detection.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week4-3/car_detection.py">
+      <file leaf-file-name="dinosaurus_island.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course5w1/dinosaurus_island.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="86" column="28" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
+            <state relative-caret-position="4140">
+              <caret line="276" column="4" selection-start-line="276" selection-start-column="4" selection-end-line="276" selection-end-column="4" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="keras_darknet19.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week4-3/yad2k/models/keras_darknet19.py">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="15">
+              <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="keras_yolo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week4-3/yad2k/models/keras_yolo.py">
+      <file leaf-file-name="mainc5w2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mainc5w2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#38#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yolo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week4-3/yolo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="82" selection-start-line="82" selection-end-line="82" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="assignment2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week4-2/assignment2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3105">
-              <caret line="213" selection-start-line="213" selection-end-line="213" />
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -125,6 +151,10 @@
       <find>plt.</find>
       <find>shape</find>
       <find>.sho</find>
+      <find>zero</find>
+      <find>eye</find>
+      <find>cost</find>
+      <find>word_to</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -136,12 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/deep_learning_vectorization.ipynb" />
-        <option value="$PROJECT_DIR$/broadcasting_training.py" />
-        <option value="$PROJECT_DIR$/dlv_py.py" />
-        <option value="$PROJECT_DIR$/note_python_numpy.py" />
-        <option value="$PROJECT_DIR$/vectors_n_matrix.py" />
-        <option value="$PROJECT_DIR$/week1-2/main.py" />
         <option value="$PROJECT_DIR$/week1-2/assignment.py" />
         <option value="$PROJECT_DIR$/testCases.py" />
         <option value="$PROJECT_DIR$/planar_utils.py" />
@@ -164,10 +188,35 @@
         <option value="$PROJECT_DIR$/week4-3/yolo_utils.py" />
         <option value="$PROJECT_DIR$/week4-3/yolo.py" />
         <option value="$PROJECT_DIR$/week4-2/assignment.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/week4-3/yad2k/models/keras_yolo.py" />
         <option value="$PROJECT_DIR$/week4-3/yad2k/models/keras_darknet19.py" />
         <option value="$PROJECT_DIR$/week4-3/car_detection.py" />
+        <option value="$PROJECT_DIR$/week5-1/rnn_utils.py" />
+        <option value="$PROJECT_DIR$/week5-1/utils.py" />
+        <option value="$PROJECT_DIR$/week5-1/__init__.py" />
+        <option value="$PROJECT_DIR$/week5-1/assignement1.py" />
+        <option value="$PROJECT_DIR$/week5p1/assignement1.py" />
+        <option value="$PROJECT_DIR$/course5w1/assignement1.py" />
+        <option value="$PROJECT_DIR$/course5w1/data/input.txt" />
+        <option value="$PROJECT_DIR$/course5w1/character_model/utils.py" />
+        <option value="$PROJECT_DIR$/course5w1/lstm_network/music_utils.py" />
+        <option value="$PROJECT_DIR$/course5w1/lstm_network/data_utils.py" />
+        <option value="$PROJECT_DIR$/course5w1/writing_like_shakespeare.py" />
+        <option value="$PROJECT_DIR$/course5w1/lstm_network/preprocess.py" />
+        <option value="$PROJECT_DIR$/week2-3/simple_practice.py" />
+        <option value="$PROJECT_DIR$/course5w1/dinosaurus_island.py" />
+        <option value="$PROJECT_DIR$/course5w1/jazz_solo_lstm.py" />
+        <option value="$PROJECT_DIR$/course5w2/__init__.py" />
+        <option value="$PROJECT_DIR$/course5w2/operation_word2vec/w2v_utils.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/course5w2/operation_word_vec/w2v_utils.py" />
+        <option value="$PROJECT_DIR$/course5w2/Emojify.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/course5w2/operation_word2vec.py" />
+        <option value="$PROJECT_DIR$/course5w2/emojyfier/emo_utils.py" />
+        <option value="$PROJECT_DIR$/course5w2/emojify.py" />
+        <option value="$PROJECT_DIR$/mainc5w2.py" />
+        <option value="$PROJECT_DIR$/course5w2/emojifyV2.py" />
       </list>
     </option>
   </component>
@@ -194,25 +243,36 @@
             <path>
               <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
-              <item name="week4-2" type="462c0819:PsiDirectoryNode" />
+              <item name="course5w1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
-              <item name="week4-3" type="462c0819:PsiDirectoryNode" />
+              <item name="course5w1" type="462c0819:PsiDirectoryNode" />
+              <item name="character_model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
-              <item name="week4-3" type="462c0819:PsiDirectoryNode" />
-              <item name="yad2k" type="462c0819:PsiDirectoryNode" />
+              <item name="course5w2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
-              <item name="week4-3" type="462c0819:PsiDirectoryNode" />
-              <item name="yad2k" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="course5w2" type="462c0819:PsiDirectoryNode" />
+              <item name="operation_word_vec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
+              <item name="course5w2" type="462c0819:PsiDirectoryNode" />
+              <item name="operation_word_vec" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
+              <item name="course5w3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
@@ -230,18 +290,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/course5w2" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/week4-3" />
       <recent name="$PROJECT_DIR$/week4-2" />
       <recent name="$PROJECT_DIR$/week2-2" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/week1-2/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/week4-3/yad2k/models" />
-      <recent name="$PROJECT_DIR$/week4-2" />
-      <recent name="$PROJECT_DIR$/week4-2/datasets" />
+      <recent name="$PROJECT_DIR$/course5w2/data" />
+      <recent name="$PROJECT_DIR$/course5w2/operation_word2vec" />
+      <recent name="$PROJECT_DIR$/course5w2" />
+      <recent name="$PROJECT_DIR$/week5-1" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/week2-1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -256,8 +316,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.car_detection">
-    <configuration name="assignment (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.mainc5w2">
+    <configuration name="assignement1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,17 +325,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5-1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4-1/assignment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5-1/assignement1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dinosaurus_island" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,17 +343,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4-2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course5w1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4-2/assignment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course5w1/dinosaurus_island.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,17 +361,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4-1/assignment2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mainc5w2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,17 +379,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4-2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4-2/assignment2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainc5w2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="car_detection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="simple_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,11 +397,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2-3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4-3/car_detection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2-3/simple_practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -493,19 +553,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Python.assignment (2)" />
-      <item itemvalue="Python.assignment2 (1)" />
-      <item itemvalue="Python.assignment2" />
-      <item itemvalue="Python.assignment (3)" />
-      <item itemvalue="Python.car_detection" />
+      <item itemvalue="Python.assignement1" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.simple_practice" />
+      <item itemvalue="Python.dinosaurus_island" />
+      <item itemvalue="Python.mainc5w2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.car_detection" />
-        <item itemvalue="Python.assignment (3)" />
-        <item itemvalue="Python.assignment2" />
-        <item itemvalue="Python.assignment2 (1)" />
-        <item itemvalue="Python.assignment (2)" />
+        <item itemvalue="Python.mainc5w2" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.dinosaurus_island" />
+        <item itemvalue="Python.simple_practice" />
+        <item itemvalue="Python.assignement1" />
       </list>
     </recent_temporary>
   </component>
@@ -524,17 +584,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1391" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15328467" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17591241" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50038195" side_tool="true" weight="0.32882273" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32820514" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49961802" weight="0.28589743" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49961802" weight="0.28589743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991881" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32882273" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -542,8 +604,27 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32820514" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17664233" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49961802" visible="true" weight="0.28589743" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32882273" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32820514" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991881" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50038195" side_tool="true" weight="0.32882273" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32969698" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -595,216 +676,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week4-3/yolo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="60" column="14" lean-forward="true" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week4-3/yolo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4530">
-          <caret line="315" column="114" lean-forward="true" selection-start-line="314" selection-start-column="41" selection-end-line="315" selection-end-column="114" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb" />
-    <entry file="file://$PROJECT_DIR$/dlv_py.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2016.3/python_stubs/1025205290/numpy/core/multiarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13245">
-          <caret line="883" column="39" lean-forward="true" selection-start-line="882" selection-start-column="57" selection-end-line="883" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/numpy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720" />
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/numpy/core/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="488" column="11" lean-forward="true" selection-start-line="488" selection-start-column="11" selection-end-line="488" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/numpy/ma/core.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67965">
-          <caret line="4537" column="8" selection-start-line="4537" selection-start-column="8" selection-end-line="4537" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lr_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning_vectorization.ipynb" />
-    <entry file="file://$PROJECT_DIR$/week1-2/main.py" />
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1025205290/numpy/core/multiarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="867" column="4" selection-start-line="867" selection-start-column="4" selection-end-line="867" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2016.3/python_stubs/1025205290/numpy/core/multiarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="884" column="4" lean-forward="true" selection-start-line="884" selection-start-column="4" selection-end-line="884" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testCases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="112" selection-start-line="112" selection-end-line="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51270">
-          <caret line="3469" selection-start-line="3469" selection-end-line="3469" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/colors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="232" column="4" selection-start-line="232" selection-start-column="4" selection-end-line="232" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/axes/_axes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="4273" column="38" selection-start-line="4273" selection-start-column="38" selection-end-line="4273" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="1854" selection-start-line="1854" selection-end-line="1854" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/planar_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/sklearn/utils/validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8475">
-          <caret line="577" selection-start-line="577" selection-end-line="577" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/sklearn/linear_model/logistic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23310">
-          <caret line="1578" column="8" selection-start-line="1578" selection-start-column="8" selection-end-line="1578" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1-3/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3525">
-          <caret line="241" selection-start-line="241" selection-end-line="248" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1-4/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2310">
-          <caret line="158" column="13" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2-1/assignment2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2-1/assignment1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="91" selection-start-line="91" selection-end-line="91" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testCases_v21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gc_utils_21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2-1/assignment3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="202" column="18" selection-start-line="202" selection-start-column="8" selection-end-line="202" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testCases_v22.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/deep_learning_vectorization-checkpoint.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dlv_py.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2-3/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -826,13 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="31" column="49" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2-2/assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3720">
-          <caret line="257" column="29" selection-start-line="257" selection-start-column="29" selection-end-line="257" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -899,20 +767,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week4-3/yad2k/models/keras_yolo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="180">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#38#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -923,23 +781,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week4-3/car_detection.py">
+    <entry file="file://$PROJECT_DIR$/week4-3/yolo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="86" column="28" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1230">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week4-3/yolo.py">
+    <entry file="file://$PROJECT_DIR$/course5w1/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="419">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w1/rnn_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2-2/assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="447" selection-start-line="447" selection-end-line="454" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -947,8 +813,223 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1-3/assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="87" column="16" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4-3/car_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="28" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w1/character_model/dinos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="279" selection-start-line="279" selection-end-line="279" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w1/lstm_network/music_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/music21/converter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="605" selection-start-line="605" selection-end-line="605" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w1/assignement1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w1/writing_like_shakespeare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w1/lstm_network/data_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w1/lstm_network/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="140" column="4" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2-3/assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="545" selection-start-line="545" selection-end-line="545" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2-3/simple_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/layers/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="619" column="8" selection-start-line="619" selection-start-column="8" selection-end-line="619" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w1/character_model/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w1/jazz_solo_lstm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
           <folding>
-            <element signature="e#620#642#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w1/dinosaurus_island.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="276" column="4" selection-start-line="276" selection-start-column="4" selection-end-line="276" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w2/operation_word_vec/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w2/data/glove.6B.50d.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-379" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w2/operation_word_vec/data/input-Copy1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2085" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w2/operation_word_vec/data/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w2/operation_word_vec/w2v_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="104" column="47" selection-start-line="104" selection-start-column="47" selection-end-line="104" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainc5w2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w2/emojyfier/emo_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/engine/input_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="112" column="4" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w2/operation_word2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="94" column="4" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w2/emojify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="159" column="47" lean-forward="true" selection-start-line="156" selection-start-column="35" selection-end-line="159" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course5w2/emojifyV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="196" column="85" selection-start-line="196" selection-start-column="85" selection-end-line="196" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
