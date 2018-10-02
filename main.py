@@ -1,4 +1,6 @@
 # from course5w1.assignement1 import course5w1_assignement1_practice
+from tqdm import tqdm
+
 from course5w1.dinosaurus_island import dinosaurus_island_practice
 # from course5w1.writing_like_shakespeare import writing_like_shakespeare_practice
 # from course5w1.jazz_solo_lstm import jazz_solo_lstm_practice
@@ -27,3 +29,5 @@ if __name__ == '__main__':
         c = b.T * a
         print(c)
         print("unknown")
+        # for i in tqdm(range(1000000000)):
+        #     a = i

@@ -9,6 +9,13 @@ keras
 pydot
 pandas
 music21
-#for some music thing in jazz solo
+#course c5w2 for some music thing in jazz solo
 pygame
+#course c5w2 for some emoji
 emoji
+#course c5w3 for some emoji
+faker
+tqdm
+babel
+#course c5w3 for some audio
+pydub
